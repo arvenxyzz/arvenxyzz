@@ -1,16 +1,26 @@
-## Hi there 👋
+# Merhaba 👋🏻 , Ben Arven
 
-<!--
-**arvenxyzz/arvenxyzz** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+```js
+class Arven {
+    constructor(options) {
+        this.name = "Arven",
+        this.sex = "Man",
+        this.length = "1.92",
+        this.type = "man",
+        this.job = "Swift - Fronted",
+        this.weight = "93",
+        this.age = "21",
+        this.discord.tag = "arvenxyz"
+    };
+}
 
-Here are some ideas to get you started:
+module.exports = Ares
+```
+![Profil View Count](https://komarev.com/ghpvc/?username=arvenxyzz&color=000000)&nbsp;
+[![GitHub Arven](https://img.shields.io/github/followers/arvenxyzz?label=follow&style=social)](https://github.com/arvenxyzz)&nbsp;
+<a href="https://instagram.com/arvenxyz"><img src="https://img.shields.io/badge/@kaioreal-000000?style=flat&logo=Instagram&logoColor=white"/></a> &nbsp;
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Hangi Dilleri  Biliorum:
+![JavaScript](https://img.shields.io/badge/-JavaScript-05122A?style=flat&logo=javascript)&nbsp;
+![TypeScript](https://img.shields.io/badge/-TypeScript-05122A?style=flat&logo=typescript&logoColor=007ACC)&nbsp;
+![MongoDB](https://img.shields.io/badge/-MongoDB-05122A?style=flat&logo=mongodb)&nbsp;
