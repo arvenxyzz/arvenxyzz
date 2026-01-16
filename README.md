@@ -18,7 +18,7 @@ module.exports = Ares
 ```
 ![Profil View Count](https://komarev.com/ghpvc/?username=arvenxyzz&color=000000)&nbsp;
 [![GitHub Arven](https://img.shields.io/github/followers/arvenxyzz?label=follow&style=social)](https://github.com/arvenxyzz)&nbsp;
-<a href="https://instagram.com/arvenxyz"><img src="https://img.shields.io/badge/@kaioreal-000000?style=flat&logo=Instagram&logoColor=white"/></a> &nbsp;
+<a href="https://instagram.com/arvenxyz"><img src="https://img.shields.io/badge/@arvenxyz-000000?style=flat&logo=Instagram&logoColor=white"/></a> &nbsp;
 
 ## Hangi Dilleri  Biliorum:
 <img src="https://skillicons.dev/icons?i=js,ts,html,css,nodejs,mysql,mongo,ruby,vue,vscode,git&perline=6&theme=dark" />
