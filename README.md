@@ -24,3 +24,4 @@ module.exports = Ares
 ![JavaScript](https://img.shields.io/badge/-JavaScript-05122A?style=flat&logo=javascript)&nbsp;
 ![TypeScript](https://img.shields.io/badge/-TypeScript-05122A?style=flat&logo=typescript&logoColor=007ACC)&nbsp;
 ![MongoDB](https://img.shields.io/badge/-MongoDB-05122A?style=flat&logo=mongodb)&nbsp;
+  <img src="https://skillicons.dev/icons?i=js,ts,html,css,nodejs,mysql,mongo,ruby,vue,vscode,git&perline=6&theme=dark" />
