@@ -19,7 +19,7 @@
 
 ---
 
-### ğŸ’« HakkÄ±mda
+### 💫 Hakkımda
 
 <div align="center">
 <table>
@@ -28,8 +28,8 @@
       <img src="https://github-readme-stats.vercel.app/api/top-langs?username=arvenxyzz&layout=compact&theme=tokyonight&hide_border=true&locale=tr" alt="Top Langs" />
     </td>
     <td width="50%">
-      Hi! Ben <b>Arven</b>. 21 yaÅŸÄ±nda, 1.92 boyunda bir geliÅŸtiriciyim. ğŸš€ <br/><br/>
-      Ã–zellikle <b>Swift</b> ile iOS dÃ¼nyasÄ±nda ve modern <b>Frontend</b> teknolojileriyle web dÃ¼nyasÄ±nda harikalar yaratmayÄ± seviyorum. TasarÄ±m odaklÄ±, kullanÄ±cÄ± deneyimini Ã¶n planda tutan projeler geliÅŸtiriyorum.
+      Hi! Ben <b>Arven</b>. 21 yaşında, 1.92 boyunda bir geliştiriciyim. 🚀 <br/><br/>
+      Özellikle <b>Swift</b> ile iOS dünyasında ve modern <b>Frontend</b> teknolojileriyle web dünyasında harikalar yaratmayı seviyorum. Tasarım odaklı, kullanıcı deneyimini ön planda tutan projeler geliştiriyorum.
     </td>
   </tr>
 </table>
@@ -37,7 +37,7 @@
 
 ---
 
-### ğŸ› ï¸ Teknolojik Yetenekler
+### 🛠️ Teknolojik Yetenekler
 
 <div align="center">
   <img src="https://skillicons.dev/icons?i=swift,apple,js,ts,vue,nodejs,mysql,mongodb,ruby,html,css,git,figma,ps,ai&perline=8&theme=dark" />
@@ -55,7 +55,7 @@
 
 ---
 
-### ğŸ“Š GitHub Ä°statistikleri
+### 📊 GitHub İstatistikleri
 
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=arvenxyzz&show_icons=true&theme=tokyonight&count_private=true&hide_border=true" height="180" />
@@ -70,7 +70,7 @@
 
 ---
 
-### ğŸ¤ Ä°letiÅŸim
+### 🤝 İletişim
 
 <div align="center">
   <p>Bir projeniz mi var? Ya da sadece selam vermek mi istiyorsunuz?</p>
