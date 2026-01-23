@@ -79,8 +79,3 @@
   </a>
 </div>
 
-<br/>
-
-<div align="center">
-  <img src="https://capsule-render.vercel.app/render?type=slice&color=0:24292e,100:000000&height=100&section=footer" width="100%" />
-</div>
